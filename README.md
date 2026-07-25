@@ -1,5 +1,5 @@
 # git-practice
 It's my first repository
 <br>
-Name :- Shreya gupta
+Name :- Shreya Awadhiya
 studying in gwalior
